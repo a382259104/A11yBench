@@ -8,12 +8,11 @@ This project analyzes GitHub accessibility issues to:
 
 
 ## Key Findings
-- 📉 **No significant trends** found (flat Kendall’s τ: `τ=0.08, p=0.62`).
+- 📉 **No significant trends** found (average flat Kendall’s τ: `τ=0.281, p=0.068`).
 - 📅 **No strong seasonality** (random fluctuations dominate).
 - 🔍 Insights: _"Accessibility fixes remain ad-hoc, not systematic."_
 
 
-'color-contrast'
 ![image](https://github.com/user-attachments/assets/2022f0b8-47c9-4391-a0fc-46c952348dd4)
 ![image](https://github.com/user-attachments/assets/eedc5b72-d44b-48ab-906b-bd1468f97e7b)
 
